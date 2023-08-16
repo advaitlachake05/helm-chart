@@ -9,6 +9,6 @@ entries:
     name: helm-chart-test
     type: application
     urls:
-    - https://github.com/advaitlachake05/helm-chart.git/helm-chart-test-0.1.0.tgz
+    - https://advaitlachake05.github.io/helm-chart/helm-chart-test-0.1.0.tgz
     version: 0.1.0
 generated: "2023-08-16T15:21:59.483297867+05:30"
